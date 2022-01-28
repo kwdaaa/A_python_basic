@@ -2,7 +2,7 @@
 import random
 
 
-# 関数「daice()」を作成
+# 関数「dice()」を作成
 def dice():
     # 変数「number」に リスト[1, 2, 3, 4, 5, 6]を定義。
     number = [1, 2, 3, 4, 5, 6]
@@ -12,5 +12,5 @@ def dice():
     return result
 
 
-# 関数「daice()」を出力。
+# 関数「dice()」を出力。
 print(dice())
